@@ -13,4 +13,3 @@ UofT administrators have the capability to create courses and include necessary 
 
 ## Preview
 ![Course Planner App](https://github.com/user-attachments/assets/a80bd39c-9545-4587-b2b6-4eaec28b2716)
-)
